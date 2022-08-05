@@ -1,10 +1,4 @@
 # e-voting
 
 Aplikasi E-voting berbasis web# E-Voting 
-# E-Voting 
-# E-Voting 
-# E-Voting 
-# E-Voting 
-# E-Voting 
-# E-Voting 
-# e-voting 
+Pemilihan Imam Masjid, Pemilihan Kepala Desa, Pemilihan Ketua dan lainlain
